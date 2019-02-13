@@ -34,7 +34,7 @@
 ```bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh
 chmod +x ssr.sh 
-bash ssr.sh
+./ssr.sh
 ```
 #### 脚本2：  
 使用root用户登录，运行以下命令：  
@@ -74,7 +74,7 @@ chmod +x shadowsocksR.sh
 ```bash
 wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh"
 chmod +x tcp.sh
-bash tcp.sh
+./tcp.sh
 ```
 三选一，推荐锐速或BBRplus（请先安装内核）  
 ![](https://s1.ax1x.com/2018/12/24/F6XveP.png)
