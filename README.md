@@ -79,20 +79,6 @@ chmod +x tcp.sh
 三选一，推荐锐速或BBRplus（请先安装内核）  
 ![](https://s1.ax1x.com/2018/12/24/F6XveP.png)
 
-安装完成后，脚本提示如下：
-```bash
-Congratulations, ShadowsocksR server install completed!
-Your Server IP        :your_server_ip
-Your Server Port      :your_server_port
-Your Password         :your_password
-Your Protocol         :your_protocol
-Your obfs             :your_obfs
-Your Encryption Method:your_encryption_method
-
-Welcome to visit:https://shadowsocks.be/9.html
-Enjoy it!
-````
-
 ## 三、SSR 客户端
 #### 功能介绍和使用方法：
   - [大概是萌新也看得懂的SSR功能详细介绍&使用教程](https://lolico.moe/tutorial/shadowsocksr.html)
